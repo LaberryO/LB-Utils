@@ -194,14 +194,14 @@ cython_debug/
 #   Learn more at https://abstra.io/docs
 .abstra/
 
-# Visual Studio Code
+# Visual Studio Code (Template)
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-!*.code-workspace
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+# !.vscode/*.code-snippets
+# !*.code-workspace
 
 # Built Visual Studio Code Extensions
 *.vsix
